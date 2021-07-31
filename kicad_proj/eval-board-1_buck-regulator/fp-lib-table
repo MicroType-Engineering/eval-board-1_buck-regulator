@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "eval-board-1_buck-regulator")(type "KiCad")(uri "C:/Users/Kyle-Home/Documents/MTE/Projects/Internal/eval-board-1_buck-regulator/lib/eval-board-1_buck-regulator.pretty")(options "")(descr ""))
+)
